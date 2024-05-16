@@ -66,7 +66,7 @@ public class MagazzinoSmartphone {
         return smartphone;
     }
 
-    public MagazzinoSmartphone getSmartphonesByStorageCapacity(int storageCapacity) {
+    /*public MagazzinoSmartphone getSmartphonesByStorageCapacity(int storageCapacity) {
         MagazzinoSmartphone magazzinoSmartphone = new MagazzinoSmartphone();
         int i=0;
         boolean trovato=false;
@@ -78,7 +78,7 @@ public class MagazzinoSmartphone {
             i++;
         }
         return magazzinoSmartphone;
-    }
+    }*/
 
     /*public MagazzinoSmartphone getSmartphonesByPriceRange(double minPrice, double maxPrice) {
         MagazzinoSmartphone magazzinoSmartphone = new MagazzinoSmartphone();
